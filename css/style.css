@@ -1,0 +1,28 @@
+
+.container {
+	padding: 50px;
+	width: 60%;
+}
+
+.head {
+	background-color: #848695;
+}
+
+.head h1 {
+	text-align: right;
+	color: white;
+	font-size: 3.5em;
+}
+
+.top {
+	background-color: #E0E0E0;
+	text-align: center;
+	border: 1px solid #A9AAB3;
+}
+
+.right-end {
+	background-color: #F5923D;
+	color: white;
+	text-align: center;
+	border: 1px solid #A9AAB3;
+}
